@@ -103,7 +103,7 @@ const Navigation = () => {
 
           {/* Resume Button */}
           <motion.a
-            href="https://drive.google.com/uc?export=download&id=113TTIO2jhtCZYUHDbeidGHgoWRZQ6PTZ"
+            href="hhttps://drive.google.com/file/d/1HWoBWw_t8sboGdvGVT5pkuQhlLjUh0sb/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
